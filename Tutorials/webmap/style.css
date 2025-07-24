@@ -2,8 +2,6 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  overflow: hidden;
-  background-color: #f5f5f5;
 }
 
 .title-container {
@@ -34,7 +32,6 @@ p {
 #map {
   width: 100vw;
   height: 100vh;
-  transition: all 0.3s ease;
 }
 
 /* Custom marker styles */
